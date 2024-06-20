@@ -29,7 +29,7 @@
 </ul>
 
 
-**Como puedes contactarme:** marvynverde@gmail.com
+**Como puedes contactarme:** grupohana.hadevs@gmail.com
 
 
 <h3 align="left">Conectate conmigo:</h3>
